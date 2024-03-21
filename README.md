@@ -2,7 +2,7 @@
 This is a Landing Page for an online course
 
 
-##Color Palette
+## Color Palette
 **Gold:** 
 Gold symbolizes wealth, success, and luxury. Incorporating touches of gold into the palette can add a sense of prestige and entrepreneurship, highlighting the brand's ambition and determination.
 **Green:** 
